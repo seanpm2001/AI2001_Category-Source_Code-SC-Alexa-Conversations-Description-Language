@@ -5,7 +5,7 @@
 
 ## Category: Source Code
 
-### Subcategory (SC): Pico
+### Subcategory (SC): Alexa Conversations Description Language (ACDL)
 
 This dataset is under development/coming soon.
 
@@ -13,6 +13,6 @@ This dataset is under development/coming soon.
 
 ***
 
-**File version:** `1 (2024, Tuesday, April 9th at 11:53 pm PST)`
+**File version:** `1 (2024, Tuesday, April 9th at 11:54 pm PST)`
 
 ***
